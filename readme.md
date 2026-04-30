@@ -1,12 +1,3 @@
-## 📫 Contact Information
-
-I am always open to discussing new opportunities in Software Development and Data Science. 
-
-*   **Email:** nitishjoshi0554@gmail.com
-*   **Phone:** +91 8544767400
-*   **Location:** Dehradun, Uttarakhand, India
-*   
-```markdown
 # 🌌 Nitish Joshi - Personal Portfolio
 
 **Aspiring Data Scientist & Software Developer**
@@ -42,9 +33,9 @@ A comprehensive data analysis and storytelling dashboard built during a competit
 
 This portfolio is built using **React** and **Vite**. To run it locally on your machine, follow these steps:
 
-```bash
+` ` `bash
 # Clone the repository
-git clone https://github.com/Nitish-011/portfolio-website.git
+git clone https://github.com/your-username/portfolio.git
 
 # Navigate into the project directory
 cd portfolio
@@ -54,3 +45,13 @@ npm install
 
 # Start the Vite development server
 npm run dev
+` ` `
+
+## 📫 Contact Information
+
+I am always open to discussing new opportunities in Software Development and Data Science. 
+
+*   **Email:** nitishjoshi0554@gmail.com
+*   **Phone:** +91 8544767400
+*   **Location:** Dehradun, Uttarakhand, India
+*   **Website:** [nitishjoshi.in](https://nitishjoshi.in)
