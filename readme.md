@@ -29,23 +29,23 @@ A comprehensive data analysis and storytelling dashboard built during a competit
 *   **Features:** Utilizes advanced SQL queries to process large datasets and integrates with Power BI to render interactive visualizations and business insights.
 *   **Tech Stack:** SQL, Power BI, Data Modeling, Database Design
 
+
 ## ⚙️ Running This Project Locally
 
 This portfolio is built using **React** and **Vite**. To run it locally on your machine, follow these steps:
-
-` ` `bash
+```bash
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/Nitish-011/portfolio-website.git
 
 # Navigate into the project directory
-cd portfolio
+cd portfolio-website
 
 # Install the dependencies
 npm install
 
 # Start the Vite development server
 npm run dev
-` ` `
+```
 
 ## 📫 Contact Information
 
