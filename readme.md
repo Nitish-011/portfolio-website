@@ -51,7 +51,6 @@ npm run dev
 
 I am always open to discussing new opportunities in Software Development and Data Science. 
 
-*   **Email:** nitishjoshi0554@gmail.com
-*   **Phone:** +91 8544767400
+*   **Linkedin:** [Nitish Joshi](https://www.linkedin.com/in/nitish-joshi-bb9a55323)
 *   **Location:** Dehradun, Uttarakhand, India
 *   **Website:** [nitishjoshi.in](https://nitishjoshi.in)
